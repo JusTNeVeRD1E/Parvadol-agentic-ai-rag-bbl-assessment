@@ -4,7 +4,7 @@ An Agentic AI system utilizing multi-agent orchestration combined with Retrieval
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a sequential multi-agent workflow designed to retrieve accurate context from a local knowledge base and synthesize it into well-formatted answers.
 
@@ -18,7 +18,7 @@ This project demonstrates a sequential multi-agent workflow designed to retrieve
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
