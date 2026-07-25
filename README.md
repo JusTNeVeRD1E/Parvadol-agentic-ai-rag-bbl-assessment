@@ -39,21 +39,58 @@ To deliver extremely fast responses (Ultra-low TTFT) while avoiding Free Tier To
 
 ## Sample Execution & Output Results
 
-Below are demonstration samples of the system processing various employee policy queries, displaying automatic Markdown table rendering, multi-agent orchestration, and prompt security checks.
-
-### 1. System Overview & UI Interface
-The system features a clean Gradio interface integrated with real-time streaming output.
-
-![System Architecture & Model Comparison](assets/model-comparison-table.png)
-
-### 2. Policy Query with Automatic Markdown Table Rendering
-When users ask for complex policy details (e.g., flight class rules or daily per diem rates), Agent 2 automatically structures the response into Markdown Tables without using emojis.
-
-![Sample Execution - Table Response](assets/sample-execution-table-output.png)
-
-### 3. Prompt Injection Security Block
-If a prompt injection or jailbreak attempt is detected, the Guardrail immediately blocks execution prior to agent triggering.
-
-![Sample Execution - Security Block](assets/sample-execution-security-block.png)
+Below are demonstration samples of the Multi-Agent RAG system processing various employee policy queries, demonstrating automatic Markdown table rendering, strict context grounding, and clean fallback handling across different query scenarios.
 
 ---
+
+### 1. Original BBL Benchmark Query
+Demonstrates the system handling the core reference task regarding international business travel policies.
+
+![Sample Execution - International Travel Policy](assets/sample-execution-bbl-travel.png)
+
+> **Query:** *"What is the policy on international travel?"*  
+
+
+---
+
+### 2. Broad / Open-Ended Queries (2 Scenarios)
+Demonstrates how the system synthesizes broad policy overviews into clear, scannable summaries.
+
+#### Scenario A: Overtime (OT) Policy & Pay Rates
+![Sample Execution - Overtime Policy](assets/sample-execution-ot-policy.png)
+
+> **Query:** *"What is the company policy and pay rate for overtime (OT)?"*
+
+#### Scenario B: Working Hours & WFH Guidelines
+![Sample Execution - Broad WFH Policy](assets/sample-execution-broad-wfh.png)
+
+> **Query:** *"What are the general guidelines on working hours and Work From Home (WFH)?"*  
+
+
+---
+
+### 3. Multi-Turn / Deep-Dive Follow-Up Query (Combo Scenario)
+Demonstrates context continuity across turns and strict grounding against hallucination when pushed on specific policy edge-cases.
+
+![Sample Execution - Multi-Turn Combo Scenario](assets/sample-execution-combo-notice.png)
+
+* **Turn 1 (Broad Policy):**  
+  > **Query:** *"What is the required notice period for resignation?"*  
+
+* **Turn 2 (Deep-Dive Follow-Up):**  
+  > **Query:** *"Can I use my 5 remaining days of annual leave to shorten this 10-day notice period?"*  
+ 
+
+
+---
+
+### 4. Unrelated / Off-Topic Query
+Demonstrates strict boundary enforcement and fallback mechanisms when processing queries completely outside the scope of the knowledge base.
+
+![Sample Execution - Off Topic World Cup](assets/sample-execution-offtopic-worldcup.png)
+
+> **Query:** *"Who won the FIFA World Cup in 2026 and who scored the final goal?"*  
+
+
+
+
