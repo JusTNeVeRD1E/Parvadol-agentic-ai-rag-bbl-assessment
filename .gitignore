@@ -1,6 +1,0 @@
-.env
-venv/
-bbl-task-venv/
-__pycache__/
-*.pyc
-.DS_Store
