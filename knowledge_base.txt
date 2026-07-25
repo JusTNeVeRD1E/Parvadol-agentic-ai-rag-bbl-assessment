@@ -1,0 +1,804 @@
+================================================================================
+BANGKOK BANK / TECH INNOVATION CORP - COMPREHENSIVE KNOWLEDGE BASE
+================================================================================
+
+DOCUMENT CONTROL AND ADOPTION STATUS
+--------------------------------------------------------------------------------
+Document Title   : Comprehensive Employee Work Regulations and Corporate Policies
+Employing Entity : Bangkok Bank / Tech Innovation Corp, as applicable to the entity identified in the employee’s employment agreement and formally adopting this document
+Document Owner   : Human Resources
+Control Functions: Legal, Compliance, Finance, Information Security, Data Protection, IT, Corporate Travel and Occupational Safety
+Version          : 1.0 - Consolidated English Draft (Prepared 24 July 2026)
+Classification   : Internal
+
+Document Purpose:
+This single consolidated document incorporates all provisions, operational limits, rules, and statutory clauses required for a complete employee work-regulation framework, including statutory employment matters, remote work, travel, benefits, IT, AI, cybersecurity, privacy, discipline, grievances and termination.
+
+Important Statutory Implementation Note:
+Thai labour law requires an employer with ten or more employees to maintain work regulations in Thai. This English document is a consolidated drafting version. Before statutory issuance, the applicable Employing Entity should approve an official Thai version, confirm entity-specific operational details, publish it through the required channels, and communicate any amendment within the legally required period. No clause may reduce a mandatory statutory right.
+
+Operational Assumptions Used in This Draft:
+1. Monthly salary is drafted as payable by bank transfer on the last working day of each calendar month.
+2. The standard one-hour lunch break is drafted as 12:00 PM to 01:00 PM unless a department publishes a lawful staggered schedule.
+3. Role-based approval channels are stated by function rather than by individual name or email address so the regulation remains usable when personnel change.
+4. Insurance benefits remain subject to the current insurer policy and certificate; the monetary limits from the source document are retained in Schedule A.
+5. Where a Company benefit is more favourable than the statutory minimum, the more favourable benefit applies, subject to lawful amendment and required notice.
+
+
+================================================================================
+PART I - GENERAL PROVISIONS
+================================================================================
+
+1. Purpose and Objectives
+These Regulations establish the minimum rules, rights, responsibilities, benefits and control requirements governing employment by the applicable Employing Entity. They are intended to promote lawful, fair, safe, secure and efficient work practices; protect employees, customers and the Company; and provide transparent procedures for work, leave, travel, technology use, discipline, grievances and termination.
+The Regulations also consolidate the knowledge-base provisions on standard working hours, work from home, international travel, leave, insurance, IT equipment, AI subscriptions and cybersecurity. Where consolidated wording clarifies an original provision, the clarification is intended to make the rule operational and legally compliant, not to reduce any benefit.
+
+2. Scope and Employing Entity
+These Regulations apply to every employee of an Employing Entity that formally adopts them, including probationary, permanent, full-time, part-time, fixed-term and temporary employees, except where a clause expressly applies only to a stated category. Benefits granted specifically to full-time employees or Software/AI Engineers apply only to those categories unless the Company approves broader eligibility.
+“Employing Entity” means the Bangkok Bank / Tech Innovation Corp entity named as employer in the employee’s employment agreement and that has formally adopted these Regulations. Each Employing Entity remains responsible for its own statutory obligations, payroll, records, disciplinary decisions and employee communications.
+Consultants, contractors, interns, agency workers, vendors and visitors are not employees solely by reason of these Regulations, but the Company may require them to comply with relevant safety, confidentiality, security, acceptable-use and conduct provisions as a condition of access.
+
+3. Definitions
+- Applicable Law: All mandatory laws, regulations, official orders and legally binding requirements applicable to the Employing Entity or employee, including Thai labour, privacy, occupational safety, social security, workers’ compensation and financial-sector requirements.
+- Approved AI Tool: An AI service, model, application, API or endpoint listed in the Company’s current Approved AI Tool Register for the specified account, data class and use case.
+- Company: The applicable Employing Entity and, where the context requires, its authorised affiliates, officers, managers and control functions acting on its behalf.
+- Company Information: Any information created, received, stored, processed or controlled by the Company, including customer, employee, banking, commercial, technical, legal, security, financial and operational information.
+- Core Hours: The period from 10:00 AM to 04:00 PM on a normal working day during which full-time employees must be reasonably reachable and able to perform assigned duties, subject to approved leave, meetings, travel and lawful breaks.
+- Employee: A person employed by the Employing Entity under an employment agreement, including an employee on probation.
+- HR Portal: The Company-approved electronic system used for leave, WFH, travel, expenses, personnel requests and acknowledgments.
+- Personal Data: Information relating to an identified or identifiable person, including sensitive personal data, as defined by Applicable Law.
+- Remote Work / WFH: Work performed at an approved location outside the Company workplace under a written or electronic arrangement.
+- Restricted Information: The highest-risk information class described in Appendix C, including credentials, cryptographic keys, customer banking data, sensitive personal data and material security vulnerabilities.
+- Supervisor: The employee’s direct supervisor or another manager formally authorised to direct, approve or evaluate the employee’s work.
+- Working Day: A day on which the employee is ordinarily required to work under the employee’s schedule.
+
+4. Legal Hierarchy and More Favourable Rights
+Mandatory Applicable Law prevails over any inconsistent provision in these Regulations.
+Where an employment agreement, collective agreement, formal benefit plan or approved policy grants a more favourable right, the more favourable right applies unless lawfully amended.
+A supporting procedure, schedule or technical standard may impose stricter controls where necessary for security, privacy, banking, safety or regulatory compliance, but may not reduce a statutory employment right.
+No manager may waive a legal requirement or approve an exception beyond the manager’s delegated authority.
+
+5. Publication, Accessibility and Employee Acknowledgment
+The Company will keep the current Regulations accessible at the workplace and through the HR Portal or another approved electronic channel. Employees must read and acknowledge them and any material amendment. An acknowledgment confirms receipt and understanding; it does not waive any legal right.
+The Company will issue and communicate amendments within the period required by Applicable Law. Employees are responsible for consulting the current version and completing required training.
+
+6. Policy Ownership, Interpretation and Exceptions
+Human Resources owns these Regulations. Legal, Compliance, Finance, Information Security, Data Protection, IT, Corporate Travel and Occupational Safety own the specialist requirements within their areas. HR will coordinate authoritative interpretations.
+An exception must be documented, time-limited, supported by business reasons and approved by every control function whose area is affected. No exception is effective if it violates law, reduces a mandatory entitlement, creates an unmanaged security or safety risk, or was obtained through incomplete or misleading information.
+
+
+================================================================================
+PART II - EMPLOYMENT ADMINISTRATION, EQUALITY AND CONDUCT
+================================================================================
+
+7. Employment Categories and Probation
+The employment agreement identifies the employee’s position, category, employing entity, work location, compensation and other terms. A probationary employment agreement is treated as an indefinite-term employment agreement unless Applicable Law permits otherwise.
+The standard probation period is exactly 119 days. Probation does not remove statutory rights. The remote-work benefit in Section 22 becomes available only after successful completion of the 119-day probation period, unless HR and the relevant business head approve an earlier exception.
+The Company may review performance, conduct, attendance, role fit, security compliance and completion of mandatory training during probation. Confirmation, extension where lawful, or termination must be communicated in accordance with the employment agreement and Applicable Law.
+
+8. Personnel Records and Employee Duty to Update Information
+Employees must provide accurate identity, address, bank, tax, emergency-contact, beneficiary, dependent, work-authorisation and qualification information.
+A material change must be updated through the HR Portal promptly and, where practicable, within seven calendar days.
+Falsification, concealment or misuse of personnel records may result in disciplinary action, subject to investigation and law.
+The Company will maintain employee and payroll records for at least the legally required period and longer where needed for a claim, audit, investigation or regulatory requirement.
+
+9. Equal Opportunity, Non-Discrimination and Accommodation
+Employment decisions will be based on lawful business requirements, qualifications, performance, conduct and capability. The Company prohibits unlawful discrimination based on sex, gender, gender identity, sexual orientation, pregnancy, marital or family status, age, disability, race, colour, nationality, ethnic origin, religion, political opinion, union activity or any other status protected by law.
+The Company will consider reasonable workplace adjustments for disability, pregnancy, medical conditions, religion and other protected needs, subject to Applicable Law, safety, security and operational feasibility. An employee may request an adjustment through HR without retaliation.
+
+10. Anti-Harassment, Bullying and Workplace Violence
+Harassment, sexual harassment, bullying, threats, intimidation, stalking, violence and retaliation are prohibited in the workplace, during remote work, travel, social events and electronic communications connected with work. Conduct may violate this rule even if it does not amount to a criminal offence.
+Employees should report concerns promptly through a Supervisor, HR, the Ethics channel or the grievance procedure. The Company may implement interim safety measures while maintaining fairness to all parties.
+
+11. Integrity, Conflicts of Interest and Outside Activities
+Employees must act honestly, protect the Company’s interests and avoid actual, potential or perceived conflicts of interest.
+A conflict, financial interest, close relationship, outside employment, directorship, advisory role or personal business that could affect Company duties must be disclosed and approved before the activity begins.
+Company time, information, systems, relationships and opportunities may not be used for unauthorised personal gain.
+Employees must comply with applicable insider-information, market-conduct and personal-account-dealing restrictions.
+
+12. Gifts, Hospitality, Client Entertainment and Anti-Bribery
+Employees must not offer, promise, request, give or accept a bribe, kickback, facilitation payment or improper advantage. Gifts, meals, travel, entertainment, sponsorships and charitable contributions must be lawful, reasonable, transparent, infrequent and approved under the applicable anti-bribery and expense rules.
+Client entertainment claimed under Section 50 must have a genuine business purpose, identify attendees and organisations, include an itemised receipt, and comply with any value limit or pre-approval requirement. Entertainment that could improperly influence a decision, involve a public official without required approval, or damage the Company’s reputation will not be reimbursed.
+
+13. Professional Conduct, Substance Misuse and Weapons
+Employees must treat colleagues, customers, vendors and regulators professionally and comply with lawful and fair instructions.
+Working while impaired by alcohol, illegal drugs or misuse of medication is prohibited where safety, judgment, performance or reputation may be affected.
+Possession of illegal drugs, unlawful weapons or dangerous items on Company premises or during Company activity is prohibited, subject to lawful exceptions for authorised security personnel.
+Employees must not make unauthorised commitments, representations or public statements on behalf of the Company.
+
+
+================================================================================
+PART III - WORKING DAYS, HOURS, ATTENDANCE AND REMOTE WORK
+================================================================================
+
+14. Standard Working Days and Hours
+Official office hours are 09:00 AM to 06:00 PM, Monday through Friday, comprising eight working hours and a one-hour lunch break. Saturday and Sunday are the normal weekly holidays for employees on this schedule. A business unit may operate a lawful shift or alternative schedule where required, provided the employee is notified and all minimum rights are observed.
+Unless a department publishes a staggered schedule, the normal lunch break is 12:00 PM to 01:00 PM. A rest period is not working time unless the employee is required to remain working or available in a manner that makes the period compensable under law.
+Normal working hours for general work will not exceed the applicable legal maximum. Hazardous work, if any, is subject to the lower maximum and additional safety requirements established by law.
+
+15. Core Hours and Availability
+All full-time employees must be reasonably reachable and active on approved internal communication channels, including Slack or Teams, during Core Hours from 10:00 AM to 04:00 PM, except during approved leave, lawful breaks, meetings, field work, travel, medical appointments or other authorised activity.
+“Reachable and active” means reasonably available to receive and respond to work communications within a time appropriate to the role and urgency. Online presence indicators alone are not conclusive evidence of attendance, productivity or misconduct.
+
+16. Attendance, Time Recording, Lateness and Absence
+Employees must accurately record attendance and actual working time through the approved system, including remote work, overtime and holiday work where required.
+An employee who expects to be late or absent must notify the Supervisor as soon as reasonably practicable and follow the leave or emergency procedure.
+Falsifying time records, directing another person to do so, or knowingly allowing unrecorded work is prohibited.
+Managers must not require or knowingly permit off-the-clock work. Work performed must be recorded and compensated where required by law.
+
+17. Rest Periods and Overtime Break
+Employees will receive a total rest period of at least one hour during a normal working day, scheduled after no more than five consecutive hours of work unless a lawful exception applies. Rest may be divided into shorter periods if the total remains at least one hour and the arrangement is lawful.
+Where an employee is required to perform at least two hours of overtime immediately after normal working hours, the Company will provide a rest period of at least twenty minutes before overtime begins, except where a lawful emergency or continuous-work exception applies.
+
+18. Overtime and Work on Holidays
+Overtime and holiday work must be necessary, authorised in advance and recorded. Except where Applicable Law permits otherwise for continuous work, emergency work or specified activities, the employee’s consent must be obtained on each occasion.
+A Supervisor must not treat after-hours messages, calls, system access or travel as automatically exempt from overtime rules.
+The aggregate of overtime, holiday work and overtime on holidays will not exceed the applicable legal limit, currently thirty-six hours per week for covered employees.
+Employees who are legally excluded from statutory overtime will be identified by HR based on actual authority and duties, not job title alone.
+Unauthorised overtime may be addressed through performance or discipline, but actual compensable work will be paid where required by law.
+
+19. Weekly and Traditional Holidays
+Employees on the standard schedule receive Saturday and Sunday as weekly holidays. Alternative schedules will provide at least the minimum weekly holiday required by law, with no more than the legally permitted interval between weekly holidays.
+The Company will announce at least thirteen traditional holidays per calendar year, including National Labour Day, based on official, religious and local customary holidays. If a traditional holiday falls on a weekly holiday, a substitute holiday will be provided as required by law.
+Holiday work requires approval and will be compensated in accordance with Section 30 and Applicable Law.
+
+20. On-Call, Standby and Emergency Support
+A role that requires on-call or standby support must have a documented roster stating the coverage period, response expectation, escalation route, consent where required, time-recording method and compensation. Being on call does not authorise unlimited working hours or remove the right to rest.
+Genuine emergencies may require immediate action to protect life, customers, data, systems or material Company assets. The employee must record time worked and notify the Supervisor after the emergency as soon as practicable.
+
+21. Remote Work Principles and Equal Treatment
+Remote work is a mutually agreed work arrangement, not an automatic right unless required by law or an approved accommodation. A remote employee retains the same statutory rights and responsibilities as an employee working at the Company workplace.
+Remote work must be documented in writing or electronically and must identify at least the arrangement period, working days and hours, rest periods, overtime and holiday rules, duties, supervision, equipment, necessary expenses, approved location and security controls. Appendix E provides the standard form.
+
+22. WFH Eligibility, Schedule and Approval
+Full-time employees who have passed the 119-day probation period are eligible to work remotely for up to two days per week, typically Tuesday and Thursday, subject to role suitability, performance, team coverage, security requirements and Supervisor approval.
+A WFH request must be submitted through the HR Portal at least twenty-four hours in advance and approved by the Direct Supervisor.
+Unused WFH days do not accumulate and may not be exchanged for leave, cash or a future entitlement.
+The Supervisor may require office attendance for meetings, training, customer activity, audits, incident response or operational need, with reasonable notice where practicable.
+WFH approval may be suspended or withdrawn for performance, attendance, security, safety or operational reasons after fair notice, unless immediate action is necessary to control a material risk.
+
+23. Remote Work Location, Workspace and Expenses
+Remote work may be performed only at the approved home or other approved location in Thailand, unless Section 27 approval has been obtained.
+The employee must maintain a safe, private and reasonably ergonomic workspace and comply with health, safety and information-security requirements.
+Company equipment must be protected from household members, visitors, theft, heat, water, pets and other foreseeable damage.
+Routine home internet, electricity and workspace costs are borne by the employee unless a written remote-work agreement or separate policy provides an allowance. Company-provided hardware remains Company property.
+Confidential calls must not be conducted where they can be overheard, and screens and documents must be protected from unauthorised viewing.
+
+24. Remote Work Performance, Communication and Dependent Care
+Remote employees must perform the same duties, meet the same standards and remain available during agreed working hours. Deliverables, meetings, response expectations and supervision may be defined in the remote-work agreement.
+WFH is not a substitute for sick leave, childcare leave or other leave where the employee is unable to perform normal duties. Temporary dependent-care needs may be managed during WFH only if work can still be performed safely and effectively and the Supervisor is informed where availability will be affected.
+
+25. Right to Disconnect
+After the end of agreed normal working hours or completion of assigned work, a remote employee may refuse work communications from the Company, Supervisor, controller or inspector unless the employee has given prior written consent to an approved on-call, standby or emergency arrangement. Exercising this right in good faith will not, by itself, be treated as misconduct or poor performance.
+Prior consent to after-hours contact does not remove overtime consent, working-time, rest or compensation requirements. Managers must use delayed delivery or appropriate urgency labels where practicable and must not create an expectation of routine unpaid after-hours availability.
+
+26. Emergency WFH
+In severe weather, public-transport strikes or personal family emergencies, an employee may request emergency WFH on a non-standard day, including Monday or Friday, with immediate line-manager approval. The employee must be able to work and must submit any required HR Portal record as soon as practicable.
+Emergency WFH may also be directed by the Company for safety, public-health, building-access, business-continuity or security reasons. The Company will communicate temporary instructions and compensation arrangements in accordance with law.
+
+27. Remote Work Outside the Home Country
+Working remotely from an international location during standard workdays is strictly prohibited without prior written approval because of tax, immigration, employment, insurance, sanctions, cybersecurity, banking confidentiality and cross-border data risks.
+Approval requires, at minimum, the Department Head, HR, Legal, Tax, Information Security and Data Protection. The approval must state the country, address, dates, maximum duration, permitted systems and data, working hours, insurance and revocation conditions. An employee must not rely on a tourist visa, personal interpretation or prior informal practice as authorisation.
+
+
+================================================================================
+PART IV - WAGES, OVERTIME, HOLIDAYS AND LEAVE
+================================================================================
+
+28. Wage Payment Date, Place and Method
+Monthly wages are paid in Thai Baht by bank transfer to the employee’s nominated account on the last working day of each calendar month, unless an earlier date is announced. Wages will be paid at least once per month and no less than the applicable minimum wage.
+Overtime pay, holiday pay, overtime on holidays, allowances and approved reimbursements will be paid through the payroll or expense cycle stated in the applicable procedure. Electronic payslips will identify material payment components and lawful deductions.
+Where payment in another currency, by another method or at another place is proposed, the Company will obtain any consent required by law.
+
+29. Equal Pay and Compensation Administration
+Employees performing work of the same nature, quality and quantity will receive equal compensation without unlawful discrimination. Compensation decisions may lawfully consider role scope, skills, experience, performance, market conditions, responsibility and location.
+Salary, bonuses, incentives and allowances are governed by the employment agreement and applicable plan. A discretionary payment is not guaranteed merely because it was paid previously, except where it has become a binding condition of employment under law.
+
+30. Overtime, Holiday Work and Holiday Overtime Rates
+- Overtime on a normal working day: At least 1.5 times the applicable hourly wage for each eligible hour worked.
+- Work during normal hours on a holiday (employee already entitled to holiday wages): At least one additional times the applicable hourly wage for eligible hours worked.
+- Work during normal hours on a holiday (employee not otherwise entitled to holiday wages): At least 2 times the applicable hourly wage for eligible hours worked.
+- Overtime on a holiday: At least 3 times the applicable hourly wage for each eligible overtime hour worked.
+The Company will apply any higher statutory rate or more favourable contractual entitlement. HR determines legal eligibility in consultation with Legal; eligibility is based on actual duties and authority.
+
+31. Lawful Deductions and Recovery of Amounts
+The Company will not deduct wages, overtime, holiday pay or holiday overtime except where authorised by law. Permitted deductions may include tax, social-security contributions, lawful union dues, approved cooperative or welfare debts, provident-fund contributions, and compensation for intentional or grossly negligent damage where the employee has given legally valid written consent.
+Where statutory percentage limits apply, they will be observed. Loss, damage, overpayment or expense irregularity will not automatically be deducted from wages; the Company will investigate, notify the employee and obtain consent or lawful authority before deduction.
+
+32. Payroll Errors and Overpayments
+An employee must promptly report a suspected payroll underpayment or overpayment. The Company will correct verified errors as soon as practicable. Recovery of an overpayment will be reasonable, documented and compliant with deduction limits, hardship considerations and any required consent.
+
+33. Temporary Business Suspension
+If the Company temporarily suspends all or part of its business for necessity other than force majeure, it will give the notice required by law and pay not less than 75% of ordinary working-day wages for the suspension period under Section 75 of the Thai Labour Protection Act. A temporary suspension does not authorise an employee to work for another party in conflict with Company duties without approval.
+
+34. General Leave Procedure
+Leave must be requested through the HR Portal and approved before absence, except where illness or emergency makes prior approval impracticable.
+Employees must provide truthful information and supporting evidence reasonably required by law or policy. Medical information will be limited to what is necessary and handled confidentially.
+Managers must decide requests fairly, promptly and consistently, considering statutory rights, operational needs and reasonable alternatives.
+Absence under an approved leave category will not be treated as misconduct. Abuse, falsification or working elsewhere during leave contrary to its purpose may be investigated.
+
+35. Annual Leave (Paid Time Off)
+Full-time employees are entitled to fifteen paid annual-leave days per calendar year, accrued monthly at 1.25 days for each completed month of service. The Company may allow use before full accrual. Part-time or partial-year entitlement will be prorated unless a more favourable rule applies.
+Requests should normally be submitted at least five working days in advance, or longer for extended leave, and are subject to Supervisor approval and business coverage.
+A maximum of five unused annual-leave days may be carried into the first quarter of the following year and must be used by March 31. Remaining carried-over days after March 31 are forfeited, subject to Applicable Law and provided the employee had a reasonable opportunity to take them.
+The Company may direct or schedule annual leave with reasonable notice where lawful, including during a shutdown, while considering employee preferences.
+Unused accrued or accumulated annual leave on termination will be paid or otherwise handled as required by Applicable Law and the applicable benefit plan.
+
+36. Sick Leave and Medical Certificates
+An employee may take sick leave for the period the employee is actually ill. The Company pays normal wages for up to thirty working days of sick leave per calendar year. Work-related injury or illness and maternity leave are not counted as ordinary sick leave.
+A medical certificate from an accredited medical practitioner or legally recognised medical facility is required for sick leave exceeding two consecutive working days, meaning three or more consecutive working days. If the employee cannot reasonably obtain a certificate, the employee must explain the circumstances to HR, which will consider lawful alternative evidence.
+An employee who is medically unfit for work should use sick leave rather than WFH. The Company may request a fitness-for-work confirmation where reasonably necessary for safety or accommodation, subject to law and confidentiality.
+
+37. Maternity Leave
+A pregnant employee is entitled to maternity leave of up to 120 days per pregnancy, including holidays occurring during the leave, or any greater entitlement required by law. The Company pays normal working-day wages for up to sixty days of maternity leave, subject to any more favourable benefit.
+Maternity leave may include medically necessary prenatal leave. The Company will not dismiss, disadvantage or unfairly transfer an employee because of pregnancy or lawful maternity leave. HR will coordinate social-security and benefit documentation where applicable.
+
+38. Additional Childcare Leave for a Child with Medical Needs
+Following maternity leave, an eligible employee may take up to fifteen additional days to care for a child who is ill, disabled, has an abnormality or special medical need, supported by a legally recognised medical certificate as required by law. The Company pays fifty percent of normal wages for this leave, or any greater amount required by law.
+
+39. Leave to Assist a Spouse Who Has Given Birth
+An employee may take up to fifteen days of paid leave per pregnancy to assist a spouse who gives or has given birth. The leave may be taken before the birth or within ninety days after the birth, in accordance with current legal requirements and the HR procedure. Reasonable supporting evidence may be required.
+
+40. Necessary Personal-Business Leave
+An employee may take at least three paid working days per calendar year for necessary personal business that cannot reasonably be handled outside working hours. The request should state the general reason without requiring unnecessary sensitive detail and should be submitted in advance where practicable.
+
+41. Sterilisation Leave
+An employee may take paid leave for sterilisation and recovery for the period certified by a legally recognised medical practitioner. The employee must submit the certificate to HR, and medical information will be handled confidentially.
+
+42. Military-Service Leave
+An employee may take leave when called for military examination, training or readiness testing under applicable military-service law. The Company pays normal wages for the legally required period, up to sixty days per calendar year unless a greater right applies. Official call-up evidence must be provided as soon as practicable.
+
+43. Training and Skills-Development Leave
+An employee may request leave for qualifying training, skills development or government-authorised educational testing in accordance with law. Unless the Company separately approves paid development leave, statutory training leave is unpaid.
+The employee should give at least seven days’ notice and provide course, schedule and supporting information.
+The Company may refuse the request where legally permitted, including where the employee has already taken at least thirty days or three training-leave occasions in the year, or where the leave would materially harm operations.
+
+44. Work-Related Injury, Occupational Disease and Return to Work
+A work-related accident, injury, illness or occupational disease must be reported immediately to the Supervisor and Occupational Safety or HR. The Company will coordinate first aid, medical care, workers’ compensation, incident investigation and any lawful notification.
+Absence caused by a compensable work injury will not be deducted from ordinary sick leave where law provides otherwise. The Company will consider suitable return-to-work duties or accommodation based on medical advice, safety and operational feasibility.
+
+45. Other Leave and More Favourable Entitlements
+The Company will provide every other leave category required by Applicable Law and may approve compassionate, study, unpaid or special leave under a separate policy. Where law is amended to provide a more favourable leave entitlement, that statutory entitlement applies automatically from its effective date even before this document is formally updated.
+
+
+================================================================================
+PART V - INTERNATIONAL TRAVEL, PER DIEM AND EXPENSE REIMBURSEMENT
+================================================================================
+
+46. Travel Principles and Duty of Care
+Business travel must be necessary, cost-effective, safe, secure and compliant with immigration, tax, sanctions, anti-bribery, data-protection and insurance requirements. Employees must use approved suppliers and exercise the same care with Company funds as with their own.
+
+47. Travel Request and Pre-Approval
+All international business trips require formal pre-approval from both the Department Head and HR at least fourteen business days before departure. Emergency international travel requested with less than fourteen business days’ notice requires explicit Vice President-level approval.
+The request must state the business purpose, destination, dates, traveller, host, estimated cost, funding code, security considerations, visa status and any customer entertainment. Approval is not complete until all required control functions have approved in the travel system.
+
+48. Flight and Hotel Booking
+Flights and corporate hotels must be booked directly through the Corporate Travel Department or its approved platform. Economy Class applies where total scheduled flying time for the one-way itinerary is under eight hours; Premium Economy applies where it exceeds eight hours, subject to availability and the approved travel budget.
+Personal credit-card bookings for flights or hotels will not be reimbursed unless authorised in advance by the Finance Director. An emergency booking made when Corporate Travel cannot be reached must be reported immediately and supported by evidence of the emergency and reasonable cost.
+Business Class, medical accommodation, additional baggage, preferred seating and non-standard hotels require separate written approval under the travel schedule.
+The traveller must use reasonable fares and rates and comply with security guidance for accommodation and transport.
+
+49. Daily Allowance (Per Diem)
+A flat daily allowance of USD $75 is provided for each approved business-travel calendar day to cover personal meals, local incidental expenses and tips. Ground transport and other expressly eligible business costs are separate from the per diem.
+Meals and incidental items covered by the per diem may not also be claimed as actual expenses.
+The per diem is calculated from the approved departure date through the approved return date. Personal-extension days are not eligible.
+Finance may adjust the amount where required by tax law, sanctions, currency controls or a formally issued country-rate schedule, but may not reduce an already approved entitlement retroactively without lawful reason.
+
+50. Eligible Business Expenses
+Business-related ground transport, including taxi and approved ride-hailing services.
+Official client entertainment that complies with Section 12 and identifies the business purpose and attendees.
+International roaming charges up to USD $10 per day.
+Approved visa, work-permit, airport, baggage, meeting-room, translation, safety and other necessary business costs not included in the per diem.
+Emergency medical or security costs not directly settled by insurance, subject to policy terms and prompt notification.
+
+51. Non-Reimbursable Expenses
+Personal purchases, minibar, in-room entertainment, fines, penalties, traffic violations, personal upgrades and companion costs.
+Alcohol or entertainment that is excessive, unlawful, unapproved or inconsistent with anti-bribery requirements.
+Duplicate claims, expenses already covered by per diem, loyalty points or another party, and costs caused by avoidable personal negligence.
+Personal travel days or incremental costs unless the employee repays the difference or the Company expressly approves a business justification.
+
+52. Receipts, Submission Deadline and Missing Receipts
+Receipts and required evidence must be submitted through the Internal Expense Portal within ten business days after return. Claims must identify the date, amount, currency, business purpose, attendees where relevant and cost centre.
+For a legitimate business expense under USD $25 where no physical or digital receipt can be issued, such as a street taxi or public transit, the employee may submit an Expense Affidavit Form signed by the manager. No more than three missing-receipt claims are permitted per trip.
+Late or incomplete claims may be rejected unless the employee demonstrates a reasonable cause. A manager’s approval does not cure a prohibited, false or unsupported expense.
+
+53. Currency Conversion, Advances and Tax
+Foreign-currency expenses will be converted using the actual card statement rate or the Finance-approved exchange rate for the transaction date. Cash advances must be reconciled promptly, and unused funds must be returned. Taxable benefits or allowances will be reported and withheld as required by law.
+
+54. Personal Extensions, Companions and Loyalty Benefits
+An employee may add personal travel only with prior approval and without increasing Company cost, risk or liability. A fare comparison must document the business-only cost. The employee bears all companion, personal accommodation, insurance, visa and change costs.
+Airline, hotel or card loyalty benefits earned on business travel may be retained only where permitted by the applicable supplier and Company policy, do not influence purchasing decisions and do not create additional Company cost.
+
+55. Travel Safety, Security and Emergency Assistance
+Employees must follow travel advisories, high-risk-destination approval, health guidance, emergency check-in and security instructions.
+Loss of a passport, device, document or Company information must be reported immediately through the applicable travel and security channels.
+Employees must protect devices and confidential discussions in airports, hotels, shared transport and public spaces and use approved VPN and connectivity controls.
+The Company may suspend, reroute or cancel travel where safety, legal, sanctions, health, security or business-continuity conditions materially change.
+
+56. Illness During International Business Travel
+If an employee becomes ill during an international business trip, medical expenses may be covered by corporate travel insurance subject to the insurer’s policy, limits, exclusions, notification and claim requirements. Sick days during the trip will not be deducted from annual leave if the employee submits a local doctor’s medical report upon return and otherwise follows the sick-leave procedure.
+Where immediate treatment is required, the employee should seek appropriate care first and notify the insurer or travel-assistance provider as soon as practicable. The Company does not guarantee cashless treatment at every facility.
+
+57. Expense Audit, Repayment and Fraud
+Finance, Internal Audit, Compliance and management may review travel and expense records. The employee must cooperate and repay an unsupported or ineligible amount. Deliberate falsification, duplicate claims, fabricated receipts or concealment may constitute serious misconduct and may be referred to authorities.
+
+
+================================================================================
+PART VI - MEDICAL COVERAGE, INSURANCE AND EMPLOYEE BENEFITS
+================================================================================
+
+58. Nature of Insurance Benefits
+The benefits in these Regulations are summaries of the current Company programme. Eligibility, commencement, cashless service, claim approval, limits, exclusions, network status and reimbursement are governed by the current insurer policy and employee certificate. Nothing in an insurance policy reduces statutory employment, social-security or workers’ compensation rights.
+HR will communicate enrolment dates, dependent eligibility, policy-year dates, claim channels and material plan changes. The Company may change the insurer or plan subject to law, contractual obligations and reasonable notice.
+
+59. Group Health Insurance - OPD and IPD
+- Outpatient Department (OPD): Covered up to THB 2,000 per visit, maximum 30 visits per calendar year.
+- Inpatient Department (IPD): Covered up to THB 500,000 per illness or admission for room, board and medical treatment at network hospitals.
+- Dental allowance: Covered up to THB 5,000 per year, subject to policy terms.
+- Exclusions: Pre-existing chronic conditions before probation, cosmetic or aesthetic procedures, dental surgery beyond the dental allowance, and self-inflicted injuries. Actual application is governed by the insurer policy, Applicable Law and the claim facts.
+
+60. Group Personal Accident Insurance
+- 24-Hour Global Coverage: Accidental death, permanent disability or injury covered up to THB 1,000,000, subject to policy terms.
+- Medical Expenses from Accident: Covered up to THB 50,000 per accident at a licensed medical facility, subject to policy terms.
+Cashless treatment using the OPD/PA Care Card is available only at participating network facilities. At a non-network facility, the employee may need to pay first and claim reimbursement.
+
+61. Claims, Pre-Authorisation and Appeals
+Employees must follow insurer notification, pre-authorisation, evidence and claim-deadline requirements. A denied or reduced claim may be submitted for reconsideration through HR or the insurer’s appeal process. The Company does not decide a claim reserved to the insurer but will assist with employment and enrolment records.
+
+62. Coordination with Social Security and Workers’ Compensation
+Benefits may coordinate with Thailand’s Social Security Fund, Workmen’s Compensation Fund, travel insurance and other mandatory or employer-sponsored coverage. Duplicate recovery for the same expense is not permitted, but an employee retains every independent statutory benefit.
+
+63. Medical Confidentiality and Fitness Information
+Medical and insurance information will be accessed only by authorised personnel for benefit administration, accommodation, safety, legal compliance or claim support. Managers will normally receive only the work restriction or administrative information necessary to manage duties, not an unnecessary diagnosis.
+
+
+================================================================================
+PART VII - IT EQUIPMENT, ACCEPTABLE USE, AI TOOLING AND CYBERSECURITY
+================================================================================
+
+64. Company Ownership and Standard Hardware Provisioning
+Company-provided devices, accounts, software, licences, credentials, records and data remain Company property. Every Software/AI Engineer is assigned a primary laptop, normally a MacBook Pro M-Series or Dell XPS 15, and one 27-inch 4K external monitor, subject to availability and role requirements.
+The employee must sign or electronically acknowledge the asset record, use the equipment primarily for authorised business, protect it and return it on request, transfer or termination.
+
+65. Hardware Refresh Cycle and Support
+Laptops are eligible for scheduled replacement or upgrade every three years. Eligibility does not guarantee a particular model or immediate replacement; IT may consider device condition, security support, role need, budget, compatibility and available inventory.
+Employees must install required updates, allow security management, use approved support channels and not disable endpoint, encryption, monitoring or remote-management controls.
+
+66. Acceptable Use
+Company systems may be used only for lawful, ethical and authorised purposes. Limited personal use is permitted if it is incidental, does not interfere with work, create material cost or risk, or violate policy.
+Employees must not access, create, store or transmit illegal, discriminatory, harassing, pornographic, malicious or infringing material through Company systems.
+Unauthorised mining, gambling, commercial resale, political campaigning, credential sharing, security bypass and installation of unapproved software are prohibited.
+Only approved cloud, collaboration, messaging and storage services may be used for Company Information.
+
+67. Damaged, Lost or Stolen Devices
+Repairs for minor accidental damage are covered under the corporate hardware warranty once per calendar year. Repeated, reckless or intentional damage may be investigated; any employee financial responsibility must be lawful, documented and not automatically deducted from wages.
+A lost or stolen device must be reported to IT Security immediately and no later than two hours after discovery so that the Company can lock, locate, isolate or wipe it. An official police report must be submitted to HR within forty-eight hours to process replacement without financial penalty, unless obtaining the report within that period is not reasonably practicable, in which case the employee must explain and submit it as soon as possible.
+Security notification must not be delayed while a police report is obtained. The employee must preserve relevant information, cooperate with investigation and follow travel-insurance or asset-recovery instructions.
+
+68. Authentication and Access Control
+Multi-Factor Authentication through a hardware key or authenticator application is mandatory for all system logins, including enterprise GitHub repositories and Azure Cloud consoles, where supported. Any technical exception requires documented Information Security approval and compensating controls.
+Passwords, tokens, hardware keys, certificates and API keys are individual and must not be shared.
+Access is granted on least-privilege and need-to-know principles and may be reviewed, changed or revoked at any time.
+Privileged access must use approved administrative accounts, logging and secrets-management controls.
+
+69. Code Repositories and Development Environments
+Corporate source code, infrastructure definitions, model artefacts, internal packages and technical documentation must be stored only in approved enterprise repositories and environments. Storing corporate source code on personal GitHub accounts or unauthorised personal cloud storage is a major security violation.
+A violation may result in disciplinary action up to and including termination, following investigation and subject to Applicable Law. Immediate containment, including access suspension or repository takedown, may occur before the disciplinary decision.
+Open-source contributions, public demonstrations and publication of sample code require prior approval and removal of Company secrets, proprietary logic and customer information.
+Third-party code, models and datasets must comply with licence, security, privacy, procurement and export restrictions.
+
+70. Company-Provided AI Tools
+Enterprise-level access to core large-language-model infrastructure, including Azure OpenAI endpoints, ChatGPT Enterprise and Gemini Enterprise, is provisioned to AI Engineers through Corporate SSO without out-of-pocket cost, subject to the Approved AI Tool Register, role-based access and service availability.
+The Company may add, remove or change an AI service based on security, privacy, legal, cost, quality or regulatory considerations. Employees must use the approved account and configured enterprise endpoint rather than a personal account when the use case or data requires it.
+
+71. Individual AI Subscription Reimbursement
+Engineers may claim up to USD $50 per month for approved individual developer-productivity tools, including ChatGPT Plus, Claude Pro, Cursor Pro or Midjourney, subject to prior written approval from the Team Lead and the tool appearing on the Approved AI Tool Register for the proposed use.
+Reimbursement approval does not authorise the employee to upload Company Information, use an unapproved account configuration or bypass enterprise tools. The employee remains responsible for compliance with data classification, licensing, copyright, retention and security rules.
+
+72. Personal API Usage Reimbursement and Budget Control
+Pay-as-you-go API consumption, including Anthropic Claude API, OpenAI API or Google AI Studio, for approved research and prototyping may be reimbursed up to USD $100 per month per engineer upon submission of official monthly invoice receipts through the Internal Expense Portal.
+A specialised project requiring API usage above USD $100 per month requires pre-authorisation from the Head of AI Engineering. The project must use approved accounts, cost centres, quotas, logging, secrets management and termination dates. Personal API keys must not be embedded in code or shared.
+
+73. AI Data Privacy and Security Guardrails
+Feeding proprietary source code, internal bank credentials or customer Personally Identifiable Information into non-enterprise or personal AI tools is strictly prohibited and classified as a severe security breach. The prohibition also covers customer banking data, employee sensitive data, authentication secrets, private keys, unreleased financial information, security vulnerabilities, regulated records and Restricted Information.
+Public Information may be used in an Approved AI Tool for an approved purpose.
+Internal Information may be used only where the tool and account are approved and the minimum necessary data is provided.
+Confidential or Restricted Information may be used only where Information Security, Legal and Data Protection have approved the specific tool, data class, purpose, retention and contractual controls.
+Anonymisation, pseudonymisation or redaction must be used where practicable, but must not be assumed effective without validation.
+
+74. Responsible AI Use and Human Accountability
+AI output must be reviewed by a qualified employee for accuracy, completeness, security, privacy, bias, intellectual property, regulatory impact and fitness for purpose before use or release.
+Employees must not represent unverified AI output as confirmed fact, professional advice, customer communication or regulatory analysis.
+Material AI use in customer, credit, fraud, employment, legal, compliance, financial, security or safety decisions requires formal governance approval, documented human oversight and any required validation or notice.
+AI must not be used to create malicious code, evade security, impersonate a person, fabricate evidence, discriminate unlawfully or violate another person’s rights.
+Prompts, outputs, sources, models and approvals must be retained where necessary for audit, model risk, reproducibility or incident response.
+
+75. AI-Generated Code, Models and Content
+AI-generated code must undergo the same peer review, testing, vulnerability scanning, licence review and change-control process as human-authored code. Generated dependencies and snippets must be verified before use. Secrets, credentials and personal data must not be inserted into code prompts or generated artefacts.
+AI-generated images, text, audio, video, models and datasets must be reviewed for copyright, licence, privacy, defamation, bias and brand risks. Synthetic or materially altered content must be labelled where required by law, policy or context.
+
+76. Network, Remote Access and Travel Security
+Employees must use approved VPN, encrypted connections and Company-managed devices for remote access unless a documented exception applies.
+Public or shared computers may not be used to access Company systems. Public Wi-Fi must be avoided or protected using approved controls.
+Screens must be locked when unattended; confidential documents must be secured and disposed of through approved methods.
+Removable media, local printing, screen recording and data export are restricted according to data classification and technical controls.
+
+77. Bring Your Own Device and Personal Accounts
+A personal device or account may be used for Company work only under an approved BYOD or exception programme that permits security management, separation, monitoring and remote deletion of Company data. Personal email, personal messaging, personal cloud storage and personal repositories must not be used to conduct or store Company business unless expressly approved.
+
+78. Security Incident Reporting
+Employees must immediately report any actual or suspected loss, theft, phishing, malware, ransomware, credential compromise, unauthorised access, data disclosure, misdirected message, exposed repository, leaked API key, accidental AI upload, system weakness or other security incident through the designated twenty-four-hour security channel.
+Reporting must not be delayed while the employee investigates, obtains a police report or decides whether the incident is serious. The employee must preserve evidence, stop further disclosure where safe, and follow Information Security, Legal and Data Protection instructions. Good-faith reporting will not be penalised merely because the employee made an honest mistake.
+
+79. Personal Data Breach Escalation
+Any suspected Personal Data breach must be escalated immediately to Information Security and the Data Protection Officer so the Company can assess risk and meet any legal notification deadline, including the applicable seventy-two-hour period. Only authorised Legal or Data Protection personnel may notify regulators or affected persons on behalf of the Company.
+
+80. Monitoring, Logging and Investigation Access
+To the extent permitted by law and disclosed in the employee privacy notice, the Company may monitor, log, inspect and preserve use of Company devices, accounts, networks, repositories, cloud services, AI prompts and outputs for security, compliance, quality, continuity, investigation and legal purposes. Monitoring will be proportionate and access limited to authorised personnel.
+Employees should not expect personal privacy in Company systems beyond what Applicable Law and the privacy notice provide. Limited personal use does not prevent lawful access to Company systems or records.
+
+
+================================================================================
+PART VIII - PERSONAL DATA, CONFIDENTIALITY, INTELLECTUAL PROPERTY AND RECORDS
+================================================================================
+
+81. Confidentiality and Need-to-Know Access
+Employees must protect Company Information during and after employment and use it only for authorised business. Access must be limited to what the employee needs for assigned duties. Confidentiality obligations apply regardless of medium, location, ownership of device or whether the information is marked.
+Company Information must not be disclosed to family, friends, former colleagues, unauthorised employees, media, competitors or external parties without authority.
+Suspected unauthorised disclosure must be reported under Section 78. Legal privilege, bank secrecy, customer confidentiality and regulatory restrictions must be preserved.
+
+82. Personal Data Protection
+Employees must process Personal Data lawfully, fairly, transparently and only for an authorised purpose. Collection and use must be limited to the minimum necessary, accurate, protected, retained only as long as needed and disclosed only to authorised recipients.
+A data-subject request, complaint, consent withdrawal or regulator inquiry must be forwarded promptly to the Data Protection Officer and not handled informally.
+Cross-border transfers, new systems, monitoring, biometrics, sensitive data and high-risk processing require the appropriate privacy review. Employees must follow the Company privacy notice and records of processing applicable to their role.
+
+83. Information Classification and Handling
+Company Information must be classified and handled according to Appendix C. The higher classification applies where information contains elements of more than one class. If uncertain, the employee must treat information as Confidential and consult the owner or Information Security.
+
+84. Intellectual Property and Work Product
+To the extent permitted by law and the employment agreement, work product, inventions, designs, software, models, documentation, data, methods, reports and other materials created within the scope of employment, using Company resources or relating to Company business belong to the Company. Employees must execute documents reasonably required to confirm ownership or protection.
+Pre-existing intellectual property must be disclosed before use. Third-party material may be used only under a valid licence and with required attribution, approval and security review.
+
+85. Open Source, External Publication and Public Speaking
+Open-source release, conference presentation, academic publication, blog, podcast, media interview and public demonstration involving Company work require prior written approval.
+Approval must address confidentiality, customer consent, intellectual property, security, regulatory, brand and conflict-of-interest risks. An employee speaking in a personal capacity must not imply Company endorsement and must still protect confidential and regulated information.
+
+86. Records Management and Legal Holds
+Business records must be created accurately, stored in approved systems, retained according to the records schedule and disposed of securely. Employees must not delete, alter, conceal or move a record subject to an audit, investigation, complaint, legal hold or regulatory request.
+Employee and wage records will be kept for at least the statutory minimum, generally no less than two years and longer where a dispute, claim or proceeding is pending.
+
+
+================================================================================
+PART IX - OCCUPATIONAL HEALTH, SAFETY, EMERGENCY AND BUSINESS CONTINUITY
+================================================================================
+
+87. General Safety Duties
+The Company will provide a work environment and safety management system consistent with Applicable Law. Employees must follow safety instructions, use required protective equipment, report hazards and stop work where there is an imminent serious danger, subject to the emergency procedure.
+No employee may remove safety devices, obstruct emergency equipment, conceal an incident or retaliate against a person who reports a genuine safety concern.
+
+88. Remote-Work Health and Safety
+The employee must maintain a stable work surface, suitable chair, safe electrical setup, adequate lighting and a clear path free from trip hazards.
+Work-related accidents during WFH must be reported immediately with the time, location, activity and available evidence.
+The Company may provide ergonomic guidance, request a self-assessment or, with appropriate consent and notice, inspect the approved remote workspace where reasonably necessary and lawful.
+
+89. Emergency, Fire, Evacuation and First Aid
+Employees must follow building evacuation, fire, severe-weather, medical-emergency and security procedures; participate in required drills; and know the designated assembly point, emergency contact and first-aid resources. Emergency instructions take priority over ordinary work instructions.
+
+90. Public Health and Communicable Disease
+The Company may implement proportionate health measures, including remote work, distancing, testing, masking, travel restrictions or temporary workplace controls, where justified by public-health guidance, law and risk. Medical information will be limited and confidential. An ill employee should use sick leave and avoid exposing others.
+
+91. Mental Health and Wellbeing
+Employees are encouraged to seek support for stress, burnout, trauma or other mental-health concerns through available benefits, HR or a qualified provider. Requests for support or accommodation will be handled confidentially. Managers must not diagnose employees or retaliate against good-faith requests for help.
+
+92. Business Continuity and Emergency Work Arrangements
+During an outage, disaster, cyber incident, building closure, civil disturbance or other disruption, the Company may activate alternate sites, emergency WFH, recovery teams or temporary duties. Employees must follow continuity communications, protect data and record time worked. Any temporary suspension of work and pay will comply with Section 33 and law.
+
+
+================================================================================
+PART X - DISCIPLINE, INVESTIGATION AND DISCIPLINARY PENALTIES
+================================================================================
+
+93. Standards and Purpose of Discipline
+Discipline is intended to correct conduct, protect employees and the Company, maintain lawful operations and respond proportionately to misconduct. The Company will consider the facts, intent, severity, harm, risk, prior record, consistency, cooperation and mitigating circumstances.
+No employee will be disciplined merely for exercising a statutory right, making a good-faith complaint, reporting an incident, requesting accommodation or refusing an unlawful instruction.
+
+94. Disciplinary Measures
+- Coaching or counselling, which is normally not formal discipline.
+- Written warning, stating the conduct, required correction, consequences and validity period. A warning relied on for statutory serious-misconduct purposes will not remain effective beyond the period allowed by law, generally one year from the misconduct.
+- Final written warning where appropriate.
+- Temporary removal of duties, access or authority as a protective measure.
+- Suspension pending investigation in accordance with Section 97.
+- Transfer, demotion or other measure only where lawful, reasonable and not an unlawful reduction of employment conditions.
+- Termination with notice and severance, or termination without severance where the legal conditions are met.
+
+95. Investigation Procedure
+The Company identifies the allegation and appoints an appropriately impartial investigator or panel.
+The employee is informed of the material allegation and given a reasonable opportunity to respond and submit evidence, unless a temporary delay is necessary to protect evidence or safety.
+Relevant records, witnesses, systems and mitigating circumstances are reviewed. Confidentiality is maintained on a need-to-know basis.
+The decision-maker evaluates the evidence on a fair and reasonable basis and documents the outcome.
+The employee receives written notice of any formal discipline and the available review or grievance route.
+The Company may take immediate containment action, such as disabling access, preserving a device or separating employees, without treating the action as a final finding of misconduct.
+
+96. Employee Cooperation and Representation
+Employees must cooperate honestly with a lawful investigation, preserve evidence and not retaliate, obstruct, coach witnesses or destroy records. An employee may request reasonable support or representation where permitted by law or Company procedure.
+
+97. Suspension Pending Investigation
+The Company may suspend an employee pending investigation only where the authority is established in these Regulations or the employment terms. The suspension order will be in writing, state the alleged misconduct and duration, and will not exceed seven days unless another lawful basis applies.
+During a statutory investigative suspension, the Company will pay at least fifty percent of ordinary working-day wages or any greater amount required by law. If the employee is found not to have committed the misconduct, the Company will pay the remaining wages and any statutory interest.
+
+98. Serious and Gross Misconduct
+The following may constitute serious or gross misconduct depending on facts and law: fraud, theft, bribery, intentional criminal conduct against the Company, deliberate damage, gross negligence causing serious damage, serious harassment or violence, unauthorised disclosure, credential misuse, deliberate security bypass, abandonment of duty, falsification, retaliation, and material violation of lawful and fair rules after a valid written warning.
+The AI and cybersecurity conduct identified in Sections 69 and 73, including placing corporate source code in personal repositories or entering restricted bank or customer information into unapproved AI tools, may warrant discipline up to termination. Whether termination may occur without severance is determined under Applicable Law after investigation.
+
+99. No Fines or Unlawful Wage Penalties
+Discipline will not take the form of an unlawful fine or wage deduction. Recovery of loss or damage is governed by Section 31 and does not replace the disciplinary process.
+
+
+================================================================================
+PART XI - GRIEVANCES, WHISTLEBLOWING AND NON-RETALIATION
+================================================================================
+
+100. Meaning and Scope of a Grievance
+A grievance is a complaint or concern about working conditions, rights, pay, leave, treatment, discrimination, harassment, safety, discipline, management conduct, policy application or another employment matter affecting the employee. A grievance may concern the employee personally or a workplace issue observed in good faith.
+
+101. Reporting Channels
+- Direct Supervisor or next-level manager.
+- Human Resources through the HR Portal or another designated channel.
+- Ethics or whistleblowing channel for fraud, bribery, serious misconduct or retaliation.
+- Information Security for cyber matters and the Data Protection Officer for privacy matters.
+- Occupational Safety for health and safety matters.
+An employee may bypass the normal reporting line where the concern involves that person, there is a conflict, the matter is urgent, or the employee reasonably fears retaliation.
+
+102. Informal Resolution
+Where appropriate and safe, the employee may first raise the matter informally with the Supervisor or HR. The recipient should listen, clarify the desired outcome, document agreed action and respond normally within five working days. Informal resolution is not required for harassment, fraud, retaliation, serious safety or security concerns.
+
+103. Formal Grievance Procedure
+1. The employee submits a written grievance stating the issue, relevant facts, prior steps and requested outcome. HR will assist an employee who cannot reasonably submit it in writing.
+2. HR acknowledges the grievance normally within three working days and appoints a reviewer without a material conflict of interest.
+3. The reviewer gathers relevant evidence and gives affected persons a fair opportunity to respond. Confidentiality is maintained as far as practicable.
+4. A written outcome is normally issued within fifteen working days. If more time is reasonably required, HR will explain the extension and provide an expected date.
+5. The outcome may include correction, payment, clarification, mediation, training, management action, discipline, control improvement or a finding that the grievance is not substantiated.
+
+104. Appeal and Final Internal Review
+The employee may appeal a formal grievance outcome to the designated senior HR or grievance panel within seven working days, stating the grounds. Grounds may include material new evidence, procedural unfairness, conflict of interest or an unreasonable conclusion. A final internal decision should normally be issued within fifteen working days.
+The internal procedure does not prevent an employee from contacting a labour inspector, regulator, law-enforcement body, court, union or other lawful authority.
+
+105. Whistleblowing and Non-Retaliation
+The Company prohibits retaliation against a person who in good faith reports a concern, participates in an investigation, refuses an unlawful act or exercises a legal right. Retaliation includes dismissal, demotion, threats, harassment, exclusion, adverse scheduling, improper performance action and disclosure of identity without need.
+A knowingly false or malicious report may be disciplined, but an unsubstantiated good-faith report is not misconduct. Anonymous reporting may be used where available, although sufficient detail may be needed for investigation.
+
+
+================================================================================
+PART XII - TERMINATION, SEVERANCE AND OFFBOARDING
+================================================================================
+
+106. Resignation
+An employee resigning from an indefinite-term employment agreement must give written notice at or before a wage-payment date so that termination takes effect at the next wage-payment date, or the notice required by the employment agreement, provided the notice does not exceed what Applicable Law permits. HR may agree to a shorter period or payment arrangement.
+The employee must complete handover, return property, reconcile expenses and preserve Company records. Approval of annual leave during notice remains subject to operational needs and law.
+
+107. Fixed-Term Employment and Probation
+A valid fixed-term employment agreement ends on its agreed date without notice only where Applicable Law permits the fixed-term arrangement. A probationary agreement is generally treated as indefinite-term for notice purposes. Expiry or probationary termination does not remove any statutory wage, leave or severance right.
+
+108. Termination with Notice or Payment in Lieu
+For indefinite-term employment, the Company will give the notice required by law or pay wages in lieu of the unserved notice period. The Company may direct the employee not to attend work during all or part of the notice period while continuing lawful pay and benefits.
+Termination decisions will be based on lawful reasons and will not be discriminatory, retaliatory or contrary to protected pregnancy, leave, union or whistleblowing rights.
+
+109. Termination Without Statutory Severance
+Subject to Applicable Law and the facts established through fair investigation, statutory severance may not be payable where the employee:
+- acts dishonestly in the performance of duties or intentionally commits a criminal offence against the employer;
+- intentionally causes damage to the employer;
+- is grossly negligent and causes serious damage to the employer;
+- violates a lawful and fair work rule, regulation or order after a valid written warning, unless the violation is legally serious enough not to require a warning;
+- abandons duties for three consecutive working days, whether or not a holiday intervenes, without reasonable cause; or
+- is sentenced by final judgment to imprisonment, subject to the legal conditions applicable to negligent or petty offences.
+The Company will identify the legal ground in the termination notice where required. A policy label such as “major” or “severe” does not by itself determine severance eligibility.
+
+110. Statutory Severance
+Under Section 118 of the Thai Labour Protection Act, continuous service entitlements are:
+- Less than 120 days: No statutory severance, unless contract or law provides otherwise.
+- 120 days but less than 1 year: 30 days of last wages.
+- 1 year but less than 3 years: 90 days of last wages.
+- 3 years but less than 6 years: 180 days of last wages.
+- 6 years but less than 10 years: 240 days of last wages.
+- 10 years but less than 20 years: 300 days of last wages.
+- 20 years or more: 400 days of last wages.
+The Company will apply any more favourable statutory rate in force on the termination date. Severance is separate from notice pay, final wages, accrued leave and special severance.
+
+111. Special Severance - Relocation and Technology Change
+Where the Company relocates a workplace in a manner materially affecting the employee’s normal life or family, it will give the notice and special-severance rights required by law. An affected employee may exercise any statutory right to decline relocation within the prescribed period.
+Where termination results from reorganisation, production, distribution or service change caused by machinery or technology that reduces headcount, the Company will give the required notice to affected employees and the labour inspector and pay any special severance, including service-based additional amounts, required by law.
+
+112. Retirement
+Retirement will occur under the retirement age or procedure stated in the employment agreement, retirement plan or Applicable Law. Retirement will be treated as termination for severance purposes where the law so requires. HR will communicate the retirement process and final entitlements.
+
+113. Final Payments and Employment Certificate
+On termination, the Company will pay final wages, approved overtime and other legally due amounts within the legally required period, generally within three days where the Company terminates employment. Accrued annual leave, severance, notice pay and expense claims will be handled according to law and the applicable plan.
+On request or where required, the Company will issue a certificate of employment stating the employee’s service period and position without including unnecessary adverse comment.
+
+114. Offboarding and Return of Property
+- Return all devices, monitors, access cards, tokens, documents, keys, records, payment instruments and other Company property by the deadline stated by HR or IT.
+- Transfer business records, repositories, credentials, contacts and work in progress to the designated owner without retaining unauthorised copies.
+- Delete Company Information from approved personal devices or accounts under IT supervision and allow required remote deletion or verification.
+- Settle advances, expenses, loans and benefits administration through lawful processes.
+Access may be restricted immediately where necessary to protect security, customers, evidence or continuity.
+
+115. Continuing Obligations After Employment
+Confidentiality, intellectual-property, privacy, records, non-solicitation or other lawful post-employment obligations continue for the period stated in the employment agreement or law. Former employees must not use or disclose Company credentials, source code, customer information, trade secrets or regulated records.
+
+
+================================================================================
+PART XIII - ADMINISTRATION, TRAINING, AMENDMENTS AND ACKNOWLEDGMENT
+================================================================================
+
+116. Mandatory Training
+- Induction training on these Regulations and role-specific procedures.
+- Annual cybersecurity, privacy, responsible AI, anti-bribery, conduct and workplace-harassment training.
+- Travel, sanctions, safety, regulatory, model-risk or technical training where relevant to the role.
+- Remedial training following an incident, audit finding or control change.
+Failure to complete mandatory training after reasonable notice may affect access, assignments, performance evaluation or discipline.
+
+117. Audit, Inspection and Cooperation
+Employees must cooperate with lawful internal and external audits, regulatory examinations, security testing, records requests and investigations. The Company may test compliance with access, expense, AI, repository, privacy and safety controls in a proportionate manner.
+
+118. Policy Review and Amendment
+HR will review these Regulations at least annually with the relevant control functions. The Company may amend them for legal, regulatory, operational, benefit, technology, security or organisational reasons, subject to Applicable Law and any protected condition of employment.
+An amendment to statutory work regulations will be announced and made accessible within the legally required period, currently seven days after adoption of the amendment. A rate or vendor in a controlled appendix may be updated through the same governance process stated in that appendix.
+
+119. Severability, No Waiver and Consistent Application
+If a provision is invalid or unenforceable, it will be applied to the maximum lawful extent and the remaining provisions continue. A delay or isolated failure to enforce a rule is not a permanent waiver. The Company will seek consistent treatment while recognising that different facts may justify different outcomes.
+
+120. Language and Governing Law
+These Regulations are governed by the laws of Thailand for employees employed in Thailand. The Thai-language version formally issued by the Employing Entity is the statutory work regulation and prevails to the extent required by law. An approved English version is provided for convenience and corporate administration.
+
+121. Effective Date and Supersession
+These Regulations take effect on the date stated in the formal adoption notice of the applicable Employing Entity and supersede prior inconsistent policies to the extent stated in that notice. Existing more favourable individual rights remain protected unless lawfully amended.
+
+
+================================================================================
+APPENDIX A - CONTROLLED RATES, ENTITLEMENTS AND BENEFITS SCHEDULE
+================================================================================
+Control Rule: This Appendix consolidates source-document rates. Insurance items remain subject to the insurer policy. The Company may update vendor names, models or reimbursement limits through formal approval and notice, but no update may reduce a statutory right.
+
+Item | Rate / Limit | Conditions
+- Standard office hours | 09:00 AM-06:00 PM, Monday-Friday | 8 working hours plus 1-hour lunch break
+- Core Hours | 10:00 AM-04:00 PM | Reasonable availability on approved internal channels
+- WFH eligibility | After 119-day probation | Up to 2 days/week, typically Tuesday and Thursday
+- WFH request | At least 24 hours in advance | Direct Supervisor approval through HR Portal
+- International travel request | At least 14 business days before departure | Department Head and HR approval
+- Late international travel | Less than 14 business days | Vice President-level approval
+- Per diem | USD $75/day | Meals, local incidental expenses and tips
+- Flight class | Economy under 8 hours; Premium Economy over 8 hours | Corporate Travel booking required
+- International roaming | Up to USD $10/day | Business-related use
+- Expense submission | Within 10 business days after return | Internal Expense Portal
+- Missing receipt exception | Under USD $25; maximum 3 claims/trip | Manager-signed Expense Affidavit
+- Annual leave | 15 paid days/calendar year | Accrued monthly
+- Annual leave carry-over | Maximum 5 days | Use by March 31 of following year
+- Paid sick leave | Up to 30 working days/calendar year | Actual illness; certificate for 3+ consecutive working days
+- OPD | THB 2,000/visit | Maximum 30 visits/calendar year
+- IPD | THB 500,000/illness or admission | Network hospitals; policy terms apply
+- Dental allowance | THB 5,000/year | Policy terms apply
+- Personal accident | Up to THB 1,000,000 | 24/7 global accidental death/disability/injury
+- Accident medical expense | Up to THB 50,000/accident | Cashless at network facilities where available
+- Engineer hardware | MacBook Pro M-Series or Dell XPS 15; one 27-inch 4K monitor | Subject to role and availability
+- Laptop refresh | Every 3 years | Eligibility subject to IT assessment
+- Minor accidental repair | Once/calendar year | Corporate hardware warranty
+- Lost/stolen device report | Within 2 hours | Immediate report preferred; police report within 48 hours
+- Individual AI tools | Up to USD $50/month | Team Lead prior written approval and approved tool
+- Personal API usage | Up to USD $100/month/engineer | Official invoice through expense portal
+- Excess API usage | Above USD $100/month | Head of AI Engineering pre-authorisation
+
+
+================================================================================
+APPENDIX B - APPROVAL AND ESCALATION MATRIX
+================================================================================
+Request | Initiator | Approver(s) | Minimum Evidence
+- Regular WFH | Employee | Direct Supervisor | HR Portal; 24 hours in advance
+- Emergency WFH | Employee / Supervisor | Line Manager | Immediate approval; HR record as soon as practicable
+- International remote work | Employee / Department Head | HR, Legal, Tax, Information Security, Data Protection | Country, dates, location, systems and data must be specified
+- International business travel | Employee | Department Head and HR | At least 14 business days
+- Late international travel | Employee / Department Head | Vice President level | Less than 14 business days
+- Personal flight/hotel booking | Traveller | Finance Director | Approval before booking except documented emergency
+- Client entertainment | Host employee | Supervisor; additional Compliance approval where required | Business purpose, attendees and itemised receipt
+- Individual AI subscription <= USD $50/month | Engineer | Team Lead | Tool must be approved for the use case
+- API usage <= USD $100/month | Engineer / Project owner | Team Lead or budget owner | Approved account, invoice and logging
+- API usage > USD $100/month | Project owner | Head of AI Engineering | Budget, quota and end date
+- Confidential/Restricted data in AI | Use-case owner | Information Security, Legal and Data Protection | Specific tool, account, data, retention and purpose approval
+- BYOD or personal account exception | Employee / Manager | IT and Information Security; Data Protection where applicable | Written, time-limited and managed
+- Policy exception | Business owner | HR plus each affected control function | Cannot reduce statutory rights
+
+
+================================================================================
+APPENDIX C - INFORMATION CLASSIFICATION AND AI HANDLING MATRIX
+================================================================================
+Class | Examples | AI Use | Minimum Handling
+- Public | Approved external publications, public website content, released marketing material | Approved public services permitted for authorised purposes | Normal integrity and brand controls
+- Internal | Internal procedures, non-sensitive project notes, general staff communications | Approved enterprise or specifically approved account; minimise data | Company storage; share only with legitimate internal recipients
+- Confidential | Source code, architecture, contracts, non-public financial information, employee records, business plans | Only where specific tool/account/use case is approved; enterprise controls required | Encryption, need-to-know access, approved repository, controlled external disclosure
+- Restricted | Credentials, API secrets, private keys, customer banking data, sensitive personal data, authentication records, high-risk vulnerabilities | Prohibited unless exceptional written approval with dedicated controls; personal tools prohibited | Strongest access, encryption, logging, DLP, no personal storage or unapproved transfer
+
+
+================================================================================
+APPENDIX D - DISCIPLINARY GUIDANCE MATRIX
+================================================================================
+Category | Examples | Possible Response
+- Minor / Correctable | Occasional lateness, incomplete routine record, first low-risk process deviation | Coaching, retraining or written warning where appropriate
+- Repeated / Material | Repeated attendance issue, failure to follow lawful procedure after warning, unauthorised but low-impact software use | Written or final warning, access restriction, other proportionate action
+- Serious | Harassment, retaliation, expense falsification, material confidentiality breach, reckless device loss, unauthorised repository use | Final warning, suspension, termination depending on facts and law
+- Potential Gross Misconduct | Fraud, bribery, theft, intentional damage, deliberate data exfiltration, sharing bank credentials, placing source code in personal repositories, uploading customer PII to unapproved personal AI tools, violence | Immediate containment; formal investigation; termination may be considered, including without severance only where legal conditions are met
+
+
+================================================================================
+APPENDIX E - REMOTE WORK AGREEMENT FORM
+================================================================================
+Agreement Item | Agreed Terms
+- Employee name / ID |
+- Position / Department |
+- Employing Entity |
+- Approved remote-work address |
+- Arrangement start and end dates |
+- Approved WFH days |
+- Normal working hours and lunch/rest period | 09:00 AM-06:00 PM; lunch 12:00 PM-01:00 PM unless otherwise approved
+- Core Hours | 10:00 AM-04:00 PM
+- Duties / deliverables / supervision |
+- Communication and response expectations |
+- Overtime / holiday work approval and recording | Prior approval and legal consent required; actual time must be recorded
+- On-call consent, if any | None unless separately stated and signed
+- Company equipment provided |
+- Employee-provided equipment or expenses |
+- Information-security and privacy controls | VPN, approved device/account, private workspace, no personal storage, incident reporting
+- Health and safety self-assessment completed | Yes / No
+- Special conditions / exceptions |
+- Revocation / review date |
+
+
+================================================================================
+APPENDIX G - EMPLOYEE ACKNOWLEDGMENT & COMPREHENSIVE LEGAL FRAMEWORK
+================================================================================
+
+1. Employee Acknowledgment Statement:
+I acknowledge that I have received access to the Comprehensive Employee Work Regulations and Corporate Policies, Version 1.0. I understand that I am responsible for reading, understanding, and complying with these provisions, as well as completing all assigned mandatory compliance training. I understand how to submit requests, raise formal grievances, report misconduct or security incidents, and request reasonable workplace accommodations.
+
+I explicitly understand that this acknowledgment confirms receipt and understanding only, and does not constitute a waiver of any statutory right guaranteed to me under Applicable Law, my individual employment agreement, or any more favourable benefit approved by the Company.
+
+
+2. Comprehensive Legal Framework Used for Drafting:
+This document is constructed under and aligned strictly with the following statutory enactments, judicial precedents, and regulatory standards in force or publicly confirmed as of 24 July 2026:
+
+A. Thai Labour and Statutory Employment Laws:
+- Labour Protection Act B.E. 2541 (1998), as amended:
+  * Section 17 & 17/1 : Notice of termination and payment in lieu of notice.
+  * Section 23 : Standard daily and weekly working hours (maximum 8 hours/day, 48 hours/week).
+  * Section 24, 25 & 61-66 : Overtime work, holiday work, employee consent requirements, and statutory overtime pay rates (1.5x, 2.0x, 3.0x).
+  * Section 27 : Mandatory rest periods during normal work (1 hour after 5 hours) and before overtime (20 minutes prior to 2+ hours OT).
+  * Section 28 & 29 : Weekly holidays (at least 1 day/week) and traditional holidays (at least 13 days/year including Labour Day).
+  * Section 30 : Annual leave entitlement (minimum 6 days/year after 1 year service; expanded to 15 days by Company policy).
+  * Section 32 : Paid sick leave (up to 30 working days/year; medical certificate required for 3+ consecutive working days).
+  * Section 33 : Paid sterilisation leave based on medical certification.
+  * Section 34 : Paid personal business leave (minimum 3 working days/year).
+  * Section 35 : Paid military service leave (up to 60 days/year).
+  * Section 36 : Training leave for skills development.
+  * Section 53 : Equal pay principle for work of equal nature, quality, and quantity.
+  * Section 75 : Temporary business suspension and minimum 75% wage payment obligation.
+  * Section 118 : Statutory severance pay schedule based on continuous service length (up to 400 days' wages for 20+ years).
+  * Section 119 : Statutory cause for termination without severance pay (gross misconduct grounds).
+  * Section 120 & 121-122 : Special severance pay for relocation of business premises and technological machinery replacement/reorganisation.
+
+- Key Statutory Amendments Included:
+  * Labour Protection Act Amendment No. 7 B.E. 2562 (2019) : Statutory severance expansion up to 400 days for 20+ years service; business leave rights.
+  * Labour Protection Act Amendment No. 8 B.E. 2566 (2023) : Formal legal recognition of remote work arrangements (WFH/Work from Anywhere) and the statutory Right to Disconnect after normal working hours.
+  * Labour Protection Act Amendment No. 9 B.E. 2568 (2025) : Expansion of maternity leave up to 120 days (60 days paid by employer), introduction of additional 15 days childcare leave for medical needs at 50% pay, and paid spousal childbirth-support leave up to 15 days.
+
+B. Privacy, Data Protection, and Technology Regulations:
+- Personal Data Protection Act (PDPA) B.E. 2562 (2019) : Statutory requirements for employee and customer data processing, legal bases, Data Subject Rights, Data Protection Officer (DPO) governance, and 72-hour breach notification rules.
+- Cybersecurity Act B.E. 2562 (2019) : Critical Information Infrastructure (CII) security standards, incident reporting, and system risk management.
+- Computer-Related Crime Act B.E. 2550 (2007) and Amendment No. 2 B.E. 2560 (2017) : Access controls, unauthorized system access, credentials sharing, and logging obligations.
+
+C. Financial Sector, Banking Governance, and Central Bank Guidelines:
+- Bank of Thailand (BOT) Notification on IT Risk Management and Cybersecurity Guidelines for Financial Institutions.
+- BOT Guidelines on Cloud Services, Outsourcing, and Cross-Border Data Transfers for Banking & Tech Entities.
+- Anti-Money Laundering Act B.E. 2542 (1999) and Anti-Bribery Governance Standards.
+
+D. Health, Safety, and Social Welfare Legislation:
+- Occupational Safety, Health and Environment Act B.E. 2554 (2011) : Employer duties to maintain safe workplaces, risk assessments, and incident reporting.
+- Social Security Act B.E. 2533 (1990), as amended : Coordinated medical, disability, maternity, and unemployment benefits.
+- Workmen’s Compensation Act B.E. 2537 (1994) : Coverage for work-related injuries, accidents, and occupational diseases.
