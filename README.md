@@ -46,9 +46,11 @@ Below are demonstration samples of the Multi-Agent RAG system processing various
 ### 1. Original BBL Benchmark Query
 Demonstrates the system handling the core reference task regarding international business travel policies.
 
+> **Query:** *"What is the policy on international travel?"*
+
 ![Sample Execution - International Travel Policy](assets/sample-execution-bbl-travel.png)
 
-> **Query:** *"What is the policy on international travel?"*  
+
 
 
 ---
@@ -57,14 +59,19 @@ Demonstrates the system handling the core reference task regarding international
 Demonstrates how the system synthesizes broad policy overviews into clear, scannable summaries.
 
 #### Scenario A: Overtime (OT) Policy & Pay Rates
-![Sample Execution - Overtime Policy](assets/sample-execution-ot-policy.png)
-
 > **Query:** *"What is the company policy and pay rate for overtime (OT)?"*
 
+![Sample Execution - Overtime Policy](assets/sample-execution-ot-policy.png)
+
+
+
 #### Scenario B: Working Hours & WFH Guidelines
+
+> **Query:** *"What are the general guidelines on working hours and Work From Home (WFH)?"*
+
 ![Sample Execution - Broad WFH Policy](assets/sample-execution-broad-wfh.png)
 
-> **Query:** *"What are the general guidelines on working hours and Work From Home (WFH)?"*  
+
 
 
 ---
@@ -72,13 +79,15 @@ Demonstrates how the system synthesizes broad policy overviews into clear, scann
 ### 3. Multi-Turn / Deep-Dive Follow-Up Query (Combo Scenario)
 Demonstrates context continuity across turns and strict grounding against hallucination when pushed on specific policy edge-cases.
 
-![Sample Execution - Multi-Turn Combo Scenario](assets/sample-execution-combo-notice.png)
-
 * **Turn 1 (Broad Policy):**  
   > **Query:** *"What is the required notice period for resignation?"*  
 
 * **Turn 2 (Deep-Dive Follow-Up):**  
-  > **Query:** *"Can I use my 5 remaining days of annual leave to shorten this 10-day notice period?"*  
+  > **Query:** *"Can I use my 5 remaining days of annual leave to shorten this 10-day notice period?"*
+  
+![Sample Execution - Multi-Turn Combo Scenario](assets/sample-execution-combo-notice.png)
+
+
  
 
 
@@ -86,10 +95,11 @@ Demonstrates context continuity across turns and strict grounding against halluc
 
 ### 4. Unrelated / Off-Topic Query
 Demonstrates strict boundary enforcement and fallback mechanisms when processing queries completely outside the scope of the knowledge base.
+> **Query:** *"Who won the FIFA World Cup in 2026 and who scored the final goal?"*  
 
 ![Sample Execution - Off Topic World Cup](assets/sample-execution-offtopic-worldcup.png)
 
-> **Query:** *"Who won the FIFA World Cup in 2026 and who scored the final goal?"*  
+
 
 
 
